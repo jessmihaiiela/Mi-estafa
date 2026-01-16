@@ -24,7 +24,6 @@ Este fraude es peligroso porqué implica una de las medidas de seguridad más co
 - Tomar el control de cuentas de correo eléctronico y cloud
   
 - Cometer fraude de identidad
-- 
 
 ## Por qué los atacantes usan el SIM Swapping
 Los atacantes usan el SIM Swapping porque es una forma muy eficaz y rápida de tomar control total de la identidad digital de una persona.
@@ -40,3 +39,15 @@ Puedes saber si has sido víctima de SIM Swapping observando una serie de señal
 - Si tus contactos reciben mensajes raros desde tu número o WhatsApp, es una señal clara
 
 - Por último, otra pista es que no puedas recuperar tus cuentas porque los códigos de verificación **no te llegan a ti**. Si al intentar restablecer una contraseña el SMS nunca aparece, es posible que otra persona esté recibiéndolo.
+- 
+
+## Como lo puedes evitar?
+- No uses SMS como único método de seguridad
+
+- Protege tu línea con tu operador solicitando un PIN o contraseña para cualquier cambio de SIM
+
+- Ten cuidado con tu información personal, no pongas tu número de telefono en cualquier lugar
+
+- Usa contraseñas fuertes y únicas
+
+- Activa alertas de login, y monitoreo
