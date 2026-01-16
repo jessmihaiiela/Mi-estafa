@@ -1,52 +1,105 @@
-# SIM Swapping: En que consiste y como evitarlo
+# Mods infectados en videojuegos
 
- El **SIM Swapping** coniste en duplicar de forma fraudulenta la tarjeta SIM del teléfono de una persona.
- Que quiere decir esto? El delincuente sabiendo tu número de teléfono, lo transfiere a otra tarjeta SIM de la que el tiene control.
- De manera que tu te quedas sin cobertura y ahora todos los SMS, llamadas, etc le llegan a el.
+## ¿Qué son los mods infectados?
 
-![Imágen](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fblog.internxt.com%2Fcontent%2Fimages%2F2024%2F04%2Fsim_swap_fraud-2.png&f=1&nofb=1&ipt=90c72653fe6e8007dd2cac928726026d9d6c2182de1f6cf34cf197cf1505c4c7)
+Los mods infectados son modificaciones de videojuegos (mejoras gráficas, mapas, shaders, cheats, launchers, etc.) pero que incluyen malware oculto.
 
-## Que hacen los delincuentes?
+## ¿Por qué son tan efectivos?
 
- Lo primero que hace el delincuente es acceder a a tu información personal a través de redes sociales o filtraciones de datos y datos bancarios utilizando los SMS de verificación que llegan al número de teléfono.
+Los mods infectados funcionan porque:
 
- El siguiente paso consiste en llamar a tu operadora y hacerse pasar por ti. Una vez así convencen al proveedor de que el teléfono a sido robado o dañado y solicitan el cambio del número a una nueva tarjeta SIM.
+- No suelen venir de tiendas oficiales
 
-Cuando el anterior paso se cumple, la operadora habrá activado una nueva tarjeta SIM, y en este punto tu tarjeta dejará de funcionar por completo y ellos se habrán hecho con todo el control y información de tu tarjeta. Donde
-recibirán todos los SMS , llamadas... y podrán entrar en todas tus cuentas; Whatsapp, banco, correo...
+- A menudo piden desactivar el antivirus
 
-## Porqué es peligroso?
-Este fraude es peligroso porqué implica una de las medidas de seguridad más comunes, la verificación por SMS. Tan solo con el control de tu número de teléfono los atacantes pueden:
-- Vaciar tu cuenta bancaria
+- Se ejecutan con permisos elevados
+
+- Se comparten en Discord, foros o YouTube
+
+- La confianza de la comunidad es el principal vector de ataque.
+
+## Juegos más afectados
+
+- Minecraft (mods, launchers, shaders)
+
+- GTA V (menús, trainers)
+
+- Skyrim / Fallout
+
+- The Sims
+
+- Stalker
+
+![Imagén](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.craftmaniacos.com%2Fwp-content%2Fuploads%2F2022%2F05%2FPack50Mods.jpg&f=1&nofb=1&ipt=97e831279e8cc9ee80ef694dcf1ab3973da6f8333cab5b40b8e9b6e5c155b61b)
+
+## ¿Qué ocurre al instalar un mod infectado?
+- Al comenzar el mod suele funcionar con normalidad y cumple su función, esto es indispensable para engañar al usuario.
+
+- Pero despues el malware ataca y puede:
+
+  -Robar sesiones activas (Steam, Discord, Epic, Riot)
+  -Capturar pulsaciones de tu teclado
+  -Leer las cookies de tu navegador
+  -Acceder a tus contraseñas guardadas...
+
+- Y a medida que va pasando el tiempo las cosas comienzan a complicarse y empiezas notar:
   
-- Apoderarse de carteras de criptomonedas
+  -Que te han robado la cuenta de algún videojuego
   
-- Tomar el control de cuentas de correo eléctronico y cloud
+  -Ha habido venta de items o skins
   
-- Cometer fraude de identidad
-
-## Por qué los atacantes usan el SIM Swapping
-Los atacantes usan el SIM Swapping porque es una forma muy eficaz y rápida de tomar control total de la identidad digital de una persona.
-
-## Cómo saber si has sido víctima
-Puedes saber si has sido víctima de SIM Swapping observando una serie de señales claras que suelen aparecer de forma repentina:
-- Una de las señales más comunes es que tu teléfono **pierde cobertura** sin motivo aparente. De repente no puedes hacer llamadas, enviar SMS ni usar datos móviles, aunque estés en una zona con buena señal.
+  -Se ha usado tu cuenta para estafar a tus contactos
   
-- Otra señal importante es recibir avisos de **cambios de seguridad** que tú no has hecho.
+  -Han habido compras no autorizadas e incluso transferencias de criptomonedas en caso de tenerlas.
 
-- También puedes notar **intentos de acceso o movimientos bancarios extraños**. Pueden aparecer transferencias, pagos o solicitudes de verificación que tú no has iniciado.
+- En el peor caso los atacantes pueden:
 
-- Si tus contactos reciben mensajes raros desde tu número o WhatsApp, es una señal clara
+   -Tener acceso persistente al sistema
+ 
+   -Tu quipo se convierte en parte de una botnet(Una botnet o red zombi es un grupo de ordenadores o dispositivos que están bajo el control de un atacante) y por tanto usan tu ordenador para más ataques.
 
-- Por último, otra pista es que no puedas recuperar tus cuentas porque los códigos de verificación **no te llegan a ti**. Si al intentar restablecer una contraseña el SMS nunca aparece, es posible que otra persona esté recibiéndolo.
+  Y si esto ocurre, por mucho que elimines el mod,    no eliminarás la infección en tu ordenador.
 
-## Como lo puedes evitar?
-- No uses SMS como único método de seguridad
+![Imagen2](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FvtroTY3NV_0%2Fmaxresdefault.jpg&f=1&nofb=1&ipt=2b7c89142bae5df6d47a4f4eb14991745e8d3b011661d0e21900edabe939e2e2)
+## Señales de alerta
 
-- Protege tu línea con tu operador solicitando un PIN o contraseña para cualquier cambio de SIM
+Evita cualquier mod que:
 
-- Ten cuidado con tu información personal, no pongas tu número de telefono en cualquier lugar
+- Pida desactivar el antivirus
 
-- Usa contraseñas fuertes y únicas
+- Requiera ejecutar un .exe innecesario
 
-- Activa alertas de login, y monitoreo
+- Use enlaces acortados o descargas sospechosas
+
+- No tenga historial o reputación
+
+- Obligue a iniciar sesión fuera de la plataforma oficial
+
+## Qué hacer si ya instalaste uno
+
+Deberías deconectar tu PC de Internet, cambiar las contraseñas a partir de otro dispositivo, cerrar todas las sesiones activas en todas las plataformas y activar la autentificación en dos factores.
+
+- Te recomendamos hacer una limpieza también con un análisis de antivirus.
+
+## Qué hacer para evitarlo
+
+- Descargar mods solo de sitios reconocidos
+
+- No confiar solo en Discord o comentarios
+
+- Usar cuentas separadas (gaming / correo principal)
+
+- Mantener el sistema actualizado
+
+#ENLACES CON MÁS INFORMACIÓN
+
+[ENLACE 1](https://elchapuzasinformatico.com/2023/06/mods-minecraft-malware-fracturiser/)
+
+[ENLACE 2](https://hardzone.es/noticias/juegos/mods-steam-peligro-contener-malware/)
+
+[ENLACE 3](https://neox.atresmedia.com/games/noticias/descargar-este-contenido-moda-tus-juegos-podria-poner-riesgo-ordenador-mineria-virus_20220215620b80300e06140001185b12.html)
+
+<img width="1024" height="1536" alt="ChatGPT Image 16 ene 2026, 10_42_53" src="https://github.com/user-attachments/assets/df655417-8b57-4cc9-b904-86d1d35e4dea" />
+
+
+
