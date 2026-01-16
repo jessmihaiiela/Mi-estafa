@@ -39,7 +39,6 @@ Puedes saber si has sido víctima de SIM Swapping observando una serie de señal
 - Si tus contactos reciben mensajes raros desde tu número o WhatsApp, es una señal clara
 
 - Por último, otra pista es que no puedas recuperar tus cuentas porque los códigos de verificación **no te llegan a ti**. Si al intentar restablecer una contraseña el SMS nunca aparece, es posible que otra persona esté recibiéndolo.
-- 
 
 ## Como lo puedes evitar?
 - No uses SMS como único método de seguridad
