@@ -27,8 +27,8 @@ Los atacantes usan el SIM Swapping porque es una forma muy eficaz y rápida de t
 
 ## Cómo saber si has sido víctima
 Puedes saber si has sido víctima de SIM Swapping observando una serie de señales claras que suelen aparecer de forma repentina:
--Una de las señales más comunes es que tu teléfono **pierde cobertura** sin motivo aparente. De repente no puedes hacer llamadas, enviar SMS ni usar datos móviles, aunque estés en una zona con buena señal.
--Otra señal importante es recibir avisos de **cambios de seguridad** que tú no has hecho.
--También puedes notar **intentos de acceso o movimientos bancarios extraños**. Pueden aparecer transferencias, pagos o solicitudes de verificación que tú no has iniciado.
--Si tus contactos reciben mensajes raros desde tu número o WhatsApp, es una señal clara
--Por último, otra pista es que no puedas recuperar tus cuentas porque los códigos de verificación **no te llegan a ti**. Si al intentar restablecer una contraseña el SMS nunca aparece, es posible que otra persona esté recibiéndolo.
+1.Una de las señales más comunes es que tu teléfono **pierde cobertura** sin motivo aparente. De repente no puedes hacer llamadas, enviar SMS ni usar datos móviles, aunque estés en una zona con buena señal.
+2.Otra señal importante es recibir avisos de **cambios de seguridad** que tú no has hecho.
+3.También puedes notar **intentos de acceso o movimientos bancarios extraños**. Pueden aparecer transferencias, pagos o solicitudes de verificación que tú no has iniciado.
+4.Si tus contactos reciben mensajes raros desde tu número o WhatsApp, es una señal clara
+5.Por último, otra pista es que no puedas recuperar tus cuentas porque los códigos de verificación **no te llegan a ti**. Si al intentar restablecer una contraseña el SMS nunca aparece, es posible que otra persona esté recibiéndolo.
