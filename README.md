@@ -17,22 +17,26 @@ recibirán todos los SMS , llamadas... y podrán entrar en todas tus cuentas; Wh
 
 ## Porqué es peligroso?
 Este fraude es peligroso porqué implica una de las medidas de seguridad más comunes, la verificación por SMS. Tan solo con el control de tu número de teléfono los atacantes pueden:
--Vaciar tu cuenta bancaria
--Apoderarse de carteras de criptomonedas
--Tomar el control de cuentas de correo eléctronico y cloud
--Cometer fraude de identidad
+- Vaciar tu cuenta bancaria
+  
+- Apoderarse de carteras de criptomonedas
+  
+- Tomar el control de cuentas de correo eléctronico y cloud
+  
+- Cometer fraude de identidad
+- 
 
 ## Por qué los atacantes usan el SIM Swapping
 Los atacantes usan el SIM Swapping porque es una forma muy eficaz y rápida de tomar control total de la identidad digital de una persona.
 
 ## Cómo saber si has sido víctima
 Puedes saber si has sido víctima de SIM Swapping observando una serie de señales claras que suelen aparecer de forma repentina:
-1. Una de las señales más comunes es que tu teléfono **pierde cobertura** sin motivo aparente. De repente no puedes hacer llamadas, enviar SMS ni usar datos móviles, aunque estés en una zona con buena señal.
+- Una de las señales más comunes es que tu teléfono **pierde cobertura** sin motivo aparente. De repente no puedes hacer llamadas, enviar SMS ni usar datos móviles, aunque estés en una zona con buena señal.
+  
+- Otra señal importante es recibir avisos de **cambios de seguridad** que tú no has hecho.
 
-2. Otra señal importante es recibir avisos de **cambios de seguridad** que tú no has hecho.
+- También puedes notar **intentos de acceso o movimientos bancarios extraños**. Pueden aparecer transferencias, pagos o solicitudes de verificación que tú no has iniciado.
 
-3. También puedes notar **intentos de acceso o movimientos bancarios extraños**. Pueden aparecer transferencias, pagos o solicitudes de verificación que tú no has iniciado.
+- Si tus contactos reciben mensajes raros desde tu número o WhatsApp, es una señal clara
 
-4. Si tus contactos reciben mensajes raros desde tu número o WhatsApp, es una señal clara
-
-5. Por último, otra pista es que no puedas recuperar tus cuentas porque los códigos de verificación **no te llegan a ti**. Si al intentar restablecer una contraseña el SMS nunca aparece, es posible que otra persona esté recibiéndolo.
+- Por último, otra pista es que no puedas recuperar tus cuentas porque los códigos de verificación **no te llegan a ti**. Si al intentar restablecer una contraseña el SMS nunca aparece, es posible que otra persona esté recibiéndolo.
