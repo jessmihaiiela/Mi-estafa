@@ -6,17 +6,13 @@ Los mods infectados son modificaciones de videojuegos (mejoras gráficas, mapas,
 
 ## ¿Por qué son tan efectivos?
 
-Los mods infectados funcionan porque:
+Principalmente por tres razones:
 
-- No suelen venir de tiendas oficiales
-
-- A menudo piden desactivar el antivirus
-
-- Se ejecutan con permisos elevados
-
-- Se comparten en Discord, foros o YouTube
-
-- La confianza de la comunidad es el principal vector de ataque.
+1. Confianza: Los descargamos de Discord o foros donde otros usuarios parecen **recomendarlo**
+   
+2. Permisos: Muchos mods nos piden desactivar el antivirus o ejecutarlos como administrador para **funcionar bien**
+   
+3. Engaño: El mod suele funcionar perfectamente al principio, lo que nos hace bajar la guardia
 
 ## Juegos más afectados
 
@@ -33,32 +29,14 @@ Los mods infectados funcionan porque:
 ![Imagén](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.craftmaniacos.com%2Fwp-content%2Fuploads%2F2022%2F05%2FPack50Mods.jpg&f=1&nofb=1&ipt=97e831279e8cc9ee80ef694dcf1ab3973da6f8333cab5b40b8e9b6e5c155b61b)
 
 ## ¿Qué ocurre al instalar un mod infectado?
-- Al comenzar el mod suele funcionar con normalidad y cumple su función, esto es indispensable para engañar al usuario.
 
-- Pero despues el malware ataca y puede:
+El ataque ocurre en tres etapas:
 
-  -Robar sesiones activas (Steam, Discord, Epic, Riot)
-  -Capturar pulsaciones de tu teclado
-  -Leer las cookies de tu navegador
-  -Acceder a tus contraseñas guardadas...
-
-- Y a medida que va pasando el tiempo las cosas comienzan a complicarse y empiezas notar:
+- Fase 1: El mod cumple su función. Juegas normal, pero en segundo plano, el malware ya está capturando tus pulsaciones (keylogger) y robando las cookies de tu navegador.
   
-  -Que te han robado la cuenta de algún videojuego
+- Fase 2: De repente, pierdes acceso a Steam, Discord o Riot. Empiezas a ver ventas de tus skins o compras de criptomonedas no autorizadas.
   
-  -Ha habido venta de items o skins
-  
-  -Se ha usado tu cuenta para estafar a tus contactos
-  
-  -Han habido compras no autorizadas e incluso transferencias de criptomonedas en caso de tenerlas.
-
-- En el peor caso los atacantes pueden:
-
-   -Tener acceso persistente al sistema
- 
-   -Tu quipo se convierte en parte de una botnet(Una botnet o red zombi es un grupo de ordenadores o dispositivos que están bajo el control de un atacante) y por tanto usan tu ordenador para más ataques.
-
-  Y si esto ocurre, por mucho que elimines el mod,    no eliminarás la infección en tu ordenador.
+- Fase 3: En el peor de los casos, tu PC se vuelve parte de una Botnet (una red zombi). Los atacantes usan tu potencia de internet y procesador para atacar a otros. Y lo más grave: borrar el mod no elimina la infección; el virus ya se ha enterrado profundamente en tu sistema."
 
 ![Imagen2](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FvtroTY3NV_0%2Fmaxresdefault.jpg&f=1&nofb=1&ipt=2b7c89142bae5df6d47a4f4eb14991745e8d3b011661d0e21900edabe939e2e2)
 ## Señales de alerta
@@ -83,13 +61,13 @@ Deberías deconectar tu PC de Internet, cambiar las contraseñas a partir de otr
 
 ## Qué hacer para evitarlo
 
-- Descargar mods solo de sitios reconocidos
+- Descargar mods solo de sitios reconocidos como CurseForge o Nexus Mods
 
 - No confiar solo en Discord o comentarios
 
 - Usar cuentas separadas (gaming / correo principal)
 
-- Mantener el sistema actualizado
+- Mantener el sistema actualizado con un antivirus
 
 #ENLACES CON MÁS INFORMACIÓN
 
