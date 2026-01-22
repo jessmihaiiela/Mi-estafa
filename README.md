@@ -77,7 +77,8 @@ Deberías deconectar tu PC de Internet, cambiar las contraseñas a partir de otr
 
 [ENLACE 3](https://neox.atresmedia.com/games/noticias/descargar-este-contenido-moda-tus-juegos-podria-poner-riesgo-ordenador-mineria-virus_20220215620b80300e06140001185b12.html)
 
-<img width="1024" height="1536" alt="ChatGPT Image 16 ene 2026, 10_42_53" src="https://github.com/user-attachments/assets/df655417-8b57-4cc9-b904-86d1d35e4dea" />
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/90a401ab-f9a9-42d0-995d-7694e56386c5" />
+
 
 
 
